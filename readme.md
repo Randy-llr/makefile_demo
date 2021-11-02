@@ -1,3 +1,5 @@
+git clone git@github.com:Randy-llr/makefile_demo.git
+
 一 ： 编译单个文件命令gcc g++ C/C++, 下面gcc与g++可替换，取决于语言是C还是C++
     gcc main.c gcc *.c
     g++ main.cpp g++ *.cpp
